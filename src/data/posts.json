@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "next.js13-udemy",
+      "title": "Next.js13をudemyで学ぶ",
+      "content": "shincodeさんの教材でNext.js13を学んでいます。",
+      "created_at": "2022/07/14"
+    },
+    {
+      "id": "json-server",
+      "title": "json-server",
+      "content": "This project uses the Fair Source License. Note: Only organizations with 3+ users need to contribute a small amount through sponsorship sponsor for usage. This license helps keep the project sustainable and healthy, benefiting everyone.",
+      "created_at": "2022/07/16"
+    },
+    {
+      "id": "revalidate-next.js",
+      "title": "データの再検証",
+      "content": "afawefwef  nly organizations with 3+ users need to contribute a small amount through sponsorship sponsor for usage. This license helps keep the project sustainable and healthy, benefiting everyone.",
+      "created_at": "2022/07/16"
+    },
+    {
+      "id": "aaa",
+      "title": "iii",
+      "content": "uuuuuuuuuuuuuuuuu",
+      "createdAt": "2024-02-02T11:49:39.679Z"
+    },
+    {
+      "id": "test",
+      "title": "test",
+      "content": "teeest",
+      "createdAt": "2024-02-02T11:52:36.402Z"
+    }
+  ]
+}
